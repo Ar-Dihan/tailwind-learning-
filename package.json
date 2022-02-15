@@ -1,0 +1,23 @@
+{
+  "name": "tailwind-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": " tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ar-Dihan/tailwind-learning-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ar-Dihan/tailwind-learning-/issues"
+  },
+  "homepage": "https://github.com/Ar-Dihan/tailwind-learning-#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.22"
+  }
+}
